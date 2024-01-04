@@ -2,7 +2,16 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@100&display=swap');
 
-
+@media screen and (max-width: 768px) {
+    /* Estilos para telas de até 768px de largura */
+    /* Ajuste aqui os estilos e o layout do site para telas menores */
+  }
+  
+  @media screen and (max-width: 480px) {
+    /* Estilos para telas de até 480px de largura */
+    /* Ajuste aqui os estilos e o layout do site para telas ainda menores */
+  }
+  
 body {
     font-family: 'Playpen Sans', cursive;
     background-color: #f7a7af;
